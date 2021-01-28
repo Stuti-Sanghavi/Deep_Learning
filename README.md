@@ -1,6 +1,10 @@
-# About
+# About the project
 
-Link to Dataset : https://data.mendeley.com/datasets/rscbjbr9sj/2
+   Link to Dataset : https://data.mendeley.com/datasets/rscbjbr9sj/2
+   
+   Used Convolutional Neural Networks (CNN) and transfer learning to predict the chances of a patient having pneumonia using X-Rays. The model achieved an F-1 score of 93% and    an accuracy of 90%
+
+# Learnings from the course: 
 
 1. Using linear learning models and then moving on to create Deep Feed Forward Neural Networks. 
 
